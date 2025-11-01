@@ -3,6 +3,9 @@
 ## Resumen
 Proyecto de análisis geoespacial y operacional sobre rutas de reparto en el Partido de La Plata. Incluye limpieza de datos, análisis exploratorio, métricas operativas y un dashboard (Power BI) para visualización interactiva.
 
+## Visualización destacada
+![Dashboard Power BI](reports/dashboard_powerbi.png)
+
 ## Pipeline del proyecto
 1. **Ingesta y Limpieza:** normalización de columnas, corrección de tipos y exportación a `rutas_limpias.csv`.
 2. **Análisis Exploratorio (EDA):** métricas descriptivas, correlaciones, validación de datos.
@@ -39,7 +42,6 @@ Estudiante de Ingeniería en Sistemas – UTN
 Enfocado en desarrollo backend y análisis de datos.  
 📫 [LinkedIn](https://www.linkedin.com/in/thomas-gomez-pro) 
 
-## Visualización destacada
-![Dashboard Power BI](reports/dashboard_powerbi.png)
+
 
 
